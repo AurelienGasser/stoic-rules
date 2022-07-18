@@ -1,2 +1,3 @@
-# stoic-rules
-50 rules for life from the Stoics, by Ryan Holiday
+# 50 Rules For Life From The Stoics
+
+By the [Daily Stoic](https://twitter.com/dailystoic).
